@@ -1,5 +1,3 @@
-Sure, here are the details you can add to your README file for the ShoppingList project on GitHub:
-
 **ShoppingList Project**
 
 This project demonstrates the use of an `ArrayList` to create a simple shopping list application in Java. It allows users to:
